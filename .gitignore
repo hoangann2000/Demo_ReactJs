@@ -1,0 +1,24 @@
+# Khai báo các folder, file không đưa lên github
+# package.json Khai báo thông tin của các thư viện dùng trong dự án
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

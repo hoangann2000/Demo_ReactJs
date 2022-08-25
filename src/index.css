@@ -1,0 +1,21 @@
+.header{
+  background-color: blue;
+  padding: 50px;
+}
+
+.navComponent{
+  background-color: yellow;
+  padding: 50px;
+  height: 400px;
+}
+
+.contentComponent{
+  background-color: green;
+  padding: 50px;
+  height: 400px;
+}
+
+.footer{
+  padding: 50px;
+  background-color:orange ;
+}
